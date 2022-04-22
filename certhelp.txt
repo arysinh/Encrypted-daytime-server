@@ -1,0 +1,2 @@
+NOTE : avoid editing this file
+This file helps in automating the certificate generation process using the Makefile.
