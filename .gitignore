@@ -1,0 +1,6 @@
+// ignore all certificate files
+*.pem
+
+// ignore binary files
+ssl-client
+ssl-server
